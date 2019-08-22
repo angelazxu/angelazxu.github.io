@@ -11,7 +11,7 @@ h5 {
 
 }
 
-.clicky:active {
+.clicky a:active {
   position: relative;
   top: 2px;
 }
