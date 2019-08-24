@@ -18,8 +18,11 @@ body {
   display: inline-block;
   font-size: 14px;
 }
+.clicky:hover {
+  background-color: white;
+}
 
-.clicky a:active {
+.clicky:active {
   position: relative;
   top: 2px;
 }
