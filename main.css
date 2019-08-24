@@ -4,13 +4,19 @@ body {
   font-weight: 100;
 }
 
-h5 {
-
-
+.row {
+  padding: inherit;
+  margin: auto;
 }
 
 .clicky {
-
+  background-color: silver;
+  border: none;
+  color: pink;
+  padding: 10px 20px;
+  text-align: center;
+  display: inline-block;
+  font-size: 14px;
 }
 
 .clicky a:active {
